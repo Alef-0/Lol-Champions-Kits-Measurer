@@ -1,1257 +1,1257 @@
 157
 Aatrox
-p: 627
-q: 2034
-w: 680
-e: 587
-r: 587
-Total: 4740
+p: 104
+q: 381
+w: 134
+e: 108
+r: 108
+Total: 865
 
 Ahri
-p: 333
-q: 466
-w: 948
-e: 579
-r: 579
-Total: 2918
+p: 68
+q: 98
+w: 178
+e: 106
+r: 106
+Total: 559
 
 Akali
-p: 725
-q: 362
-w: 958
-e: 948
-r: 948
-Total: 3899
+p: 123
+q: 73
+w: 164
+e: 175
+r: 175
+Total: 699
 
 Akshan
-p: 1027
-q: 914
-w: 1155
-e: 1661
-r: 1661
-Total: 6169
+p: 182
+q: 178
+w: 197
+e: 284
+r: 284
+Total: 1083
 
 Alistar
-p: 630
-q: 325
-w: 413
-e: 657
-r: 657
-Total: 2253
+p: 106
+q: 67
+w: 86
+e: 130
+r: 130
+Total: 427
 
 Amumu
-p: 255
-q: 466
-w: 322
-e: 488
-r: 488
-Total: 1833
+p: 38
+q: 88
+w: 63
+e: 92
+r: 92
+Total: 337
 
 Anivia
-p: 371
-q: 761
-w: 544
-e: 432
-r: 432
-Total: 3186
+p: 61
+q: 156
+w: 98
+e: 82
+r: 82
+Total: 593
 
 Annie
-p: 376
-q: 339
-w: 259
-e: 459
-r: 459
-Total: 2029
+p: 64
+q: 66
+w: 52
+e: 92
+r: 92
+Total: 376
 
 Aphelios
-p: 1422
-q: 145
-w: 132
-e: 168
-r: 168
-Total: 3622
+p: 256
+q: 24
+w: 20
+e: 29
+r: 29
+Total: 634
 
 Ashe
-p: 453
-q: 748
-w: 500
-e: 468
-r: 468
-Total: 2825
+p: 77
+q: 138
+w: 99
+e: 83
+r: 83
+Total: 514
 
 Aurelion Sol
-p: 562
-q: 863
-w: 797
-e: 993
-r: 993
-Total: 3914
+p: 100
+q: 168
+w: 148
+e: 188
+r: 188
+Total: 730
 
 Azir
-p: 742
-q: 495
-w: 1061
-e: 486
-r: 486
-Total: 3602
+p: 133
+q: 93
+w: 196
+e: 96
+r: 96
+Total: 666
 
 Bard
-p: 1113
-q: 575
-w: 607
-e: 521
-r: 521
-Total: 3227
+p: 205
+q: 113
+w: 117
+e: 90
+r: 90
+Total: 592
 
 Blitzcrank
-p: 200
-q: 481
-w: 353
-e: 282
-r: 282
-Total: 1866
+p: 33
+q: 89
+w: 64
+e: 51
+r: 51
+Total: 330
 
 Brand
-p: 1160
-q: 328
-w: 419
-e: 444
-r: 444
-Total: 3311
+p: 198
+q: 66
+w: 86
+e: 85
+r: 85
+Total: 602
 
 Braum
-p: 786
-q: 373
-w: 680
-e: 623
-r: 623
-Total: 3304
+p: 136
+q: 78
+w: 135
+e: 116
+r: 116
+Total: 620
 
 Caitlyn
-p: 801
-q: 610
-w: 1066
-e: 518
-r: 518
-Total: 3571
+p: 130
+q: 127
+w: 197
+e: 100
+r: 100
+Total: 657
 
 Camille
-p: 410
-q: 909
-w: 1074
-e: 1388
-r: 1388
-Total: 4640
+p: 66
+q: 163
+w: 202
+e: 238
+r: 238
+Total: 811
 
 Cassiopeia
-p: 182
-q: 593
-w: 602
-e: 612
-r: 612
-Total: 2406
+p: 31
+q: 112
+w: 124
+e: 123
+r: 123
+Total: 463
 
 Cho'Gath
-p: 139
-q: 361
-w: 389
-e: 639
-r: 639
-Total: 2217
+p: 25
+q: 63
+w: 81
+e: 126
+r: 126
+Total: 417
 
 Corki
-p: 659
-q: 404
-w: 1201
-e: 638
-r: 638
-Total: 3596
+p: 109
+q: 78
+w: 213
+e: 117
+r: 117
+Total: 652
 
 Darius
-p: 972
-q: 765
-w: 579
-e: 617
-r: 617
-Total: 3947
+p: 162
+q: 153
+w: 97
+e: 115
+r: 115
+Total: 709
 
 Diana
-p: 577
-q: 499
-w: 716
-e: 585
-r: 585
-Total: 2969
+p: 97
+q: 90
+w: 143
+e: 111
+r: 111
+Total: 550
 
 Dr. Mundo
-p: 872
-q: 650
-w: 842
-e: 1290
-r: 1290
-Total: 4154
+p: 153
+q: 117
+w: 159
+e: 247
+r: 247
+Total: 757
 
 Draven
-p: 614
-q: 575
-w: 404
-e: 372
-r: 372
-Total: 3069
+p: 111
+q: 114
+w: 77
+e: 76
+r: 76
+Total: 583
 
 Ekko
-p: 663
-q: 988
-w: 906
-e: 501
-r: 501
-Total: 3807
+p: 112
+q: 192
+w: 170
+e: 101
+r: 101
+Total: 704
 
 Elise
-p: 383
-q: 531
-w: 398
-e: 796
-r: 796
-Total: 2764
+p: 80
+q: 89
+w: 66
+e: 139
+r: 139
+Total: 476
 
 Evelynn
-p: 481
-q: 1052
-w: 1077
-e: 867
-r: 867
-Total: 4035
+p: 79
+q: 209
+w: 203
+e: 154
+r: 154
+Total: 740
 
 Ezreal
-p: 275
-q: 512
-w: 527
-e: 511
-r: 511
-Total: 2266
+p: 48
+q: 96
+w: 100
+e: 95
+r: 95
+Total: 417
 
 Fiddlesticks
-p: 667
-q: 1270
-w: 1548
-e: 419
-r: 419
-Total: 4347
+p: 110
+q: 238
+w: 303
+e: 88
+r: 88
+Total: 814
 
 Fiora
-p: 724
-q: 595
-w: 821
-e: 504
-r: 504
-Total: 3575
+p: 125
+q: 116
+w: 145
+e: 90
+r: 90
+Total: 636
 
 Fizz
-p: 157
-q: 524
-w: 897
-e: 933
-r: 933
-Total: 3830
+p: 27
+q: 99
+w: 175
+e: 171
+r: 171
+Total: 702
 
 Galio
-p: 383
-q: 796
-w: 1397
-e: 564
-r: 564
-Total: 4023
+p: 66
+q: 149
+w: 256
+e: 107
+r: 107
+Total: 728
 
 Gangplank
-p: 671
-q: 844
-w: 291
-e: 1383
-r: 1383
-Total: 4557
+p: 117
+q: 163
+w: 60
+e: 256
+r: 256
+Total: 837
 
 Garen
-p: 441
-q: 490
-w: 552
-e: 1160
-r: 1160
-Total: 3025
+p: 76
+q: 83
+w: 104
+e: 212
+r: 212
+Total: 542
 
 Gnar
-p: 1655
-q: 704
-w: 265
-e: 594
-r: 594
-Total: 3885
+p: 280
+q: 137
+w: 49
+e: 109
+r: 109
+Total: 692
 
 Gragas
-p: 120
-q: 933
-w: 621
-e: 473
-r: 473
-Total: 2602
+p: 19
+q: 183
+w: 115
+e: 90
+r: 90
+Total: 488
 
 Graves
-p: 1436
-q: 706
-w: 576
-e: 724
-r: 724
-Total: 4025
+p: 244
+q: 147
+w: 111
+e: 131
+r: 131
+Total: 735
 
 Gwen
-p: 529
-q: 1240
-w: 643
-e: 551
-r: 551
-Total: 4524
+p: 93
+q: 261
+w: 115
+e: 105
+r: 105
+Total: 866
 
 Hecarim
-p: 117
-q: 728
-w: 654
-e: 996
-r: 996
-Total: 3385
+p: 20
+q: 141
+w: 129
+e: 172
+r: 172
+Total: 618
 
 Heimerdinger
-p: 186
-q: 631
-w: 1621
-e: 1055
-r: 1055
-Total: 3931
+p: 29
+q: 104
+w: 304
+e: 180
+r: 180
+Total: 690
 
 Illaoi
-p: 600
-q: 290
-w: 742
-e: 1517
-r: 1517
-Total: 3828
+p: 104
+q: 60
+w: 128
+e: 274
+r: 274
+Total: 687
 
 Irelia
-p: 754
-q: 608
-w: 1283
-e: 990
-r: 990
-Total: 4553
+p: 129
+q: 112
+w: 236
+e: 172
+r: 172
+Total: 803
 
 Ivern
-p: 1355
-q: 675
-w: 584
-e: 419
-r: 419
-Total: 3540
+p: 236
+q: 124
+w: 109
+e: 89
+r: 89
+Total: 649
 
 Janna
-p: 280
-q: 834
-w: 561
-e: 592
-r: 592
-Total: 2682
+p: 46
+q: 155
+w: 124
+e: 120
+r: 120
+Total: 522
 
 Jarvan IV
-p: 287
-q: 639
-w: 335
-e: 641
-r: 641
-Total: 2581
+p: 48
+q: 127
+w: 65
+e: 115
+r: 115
+Total: 467
 
 Jax
-p: 364
-q: 368
-w: 336
-e: 706
-r: 706
-Total: 2278
+p: 64
+q: 74
+w: 68
+e: 134
+r: 134
+Total: 430
 
 Jayce
-p: 159
-q: 640
-w: 374
-e: 425
-r: 425
-Total: 2090
+p: 24
+q: 122
+w: 70
+e: 75
+r: 75
+Total: 377
 
 Jhin
-p: 1034
-q: 705
-w: 686
-e: 1115
-r: 1115
-Total: 4426
+p: 173
+q: 143
+w: 129
+e: 209
+r: 209
+Total: 809
 
 Jinx
-p: 337
-q: 1113
-w: 407
-e: 608
-r: 608
-Total: 3654
+p: 54
+q: 195
+w: 90
+e: 110
+r: 110
+Total: 669
 
 Kai'Sa
-p: 1006
-q: 975
-w: 593
-e: 855
-r: 855
-Total: 3943
+p: 172
+q: 180
+w: 116
+e: 153
+r: 153
+Total: 710
 
 Kalista
-p: 864
-q: 471
-w: 934
-e: 1172
-r: 1172
-Total: 4506
+p: 143
+q: 89
+w: 160
+e: 221
+r: 221
+Total: 786
 
 Karma
-p: 133
-q: 1079
-w: 1053
-e: 889
-r: 889
-Total: 3436
+p: 20
+q: 214
+w: 207
+e: 179
+r: 179
+Total: 669
 
 Karthus
-p: 518
-q: 718
-w: 555
-e: 580
-r: 580
-Total: 2629
+p: 82
+q: 134
+w: 104
+e: 111
+r: 111
+Total: 475
 
 Kassadin
-p: 90
-q: 481
-w: 634
-e: 537
-r: 537
-Total: 2332
+p: 13
+q: 98
+w: 110
+e: 109
+r: 109
+Total: 442
 
 Katarina
-p: 638
-q: 494
-w: 301
-e: 452
-r: 452
-Total: 2792
+p: 112
+q: 94
+w: 58
+e: 84
+r: 84
+Total: 500
 
 Kayle
-p: 1043
-q: 569
-w: 497
-e: 1063
-r: 1063
-Total: 3770
+p: 186
+q: 116
+w: 94
+e: 186
+r: 186
+Total: 687
 
 Kayn
-p: 2092
-q: 1026
-w: 686
-e: 1074
-r: 1074
-Total: 5953
+p: 353
+q: 190
+w: 127
+e: 187
+r: 187
+Total: 1037
 
 Kennen
-p: 424
-q: 298
-w: 818
-e: 861
-r: 861
-Total: 3067
+p: 77
+q: 63
+w: 161
+e: 157
+r: 157
+Total: 573
 
 Kha'Zix
-p: 348
-q: 776
-w: 808
-e: 481
-r: 481
-Total: 3219
+p: 61
+q: 131
+w: 149
+e: 86
+r: 86
+Total: 559
 
 Kindred
-p: 1234
-q: 811
-w: 1059
-e: 1125
-r: 1125
-Total: 4818
+p: 215
+q: 143
+w: 192
+e: 200
+r: 200
+Total: 850
 
 Kled
-p: 1591
-q: 744
-w: 511
-e: 113
-r: 113
-Total: 3064
+p: 258
+q: 135
+w: 98
+e: 14
+r: 14
+Total: 516
 
 Kog'Maw
-p: 447
-q: 475
-w: 373
-e: 420
-r: 420
-Total: 2580
+p: 71
+q: 90
+w: 69
+e: 87
+r: 87
+Total: 472
 
 LeBlanc
-p: 453
-q: 455
-w: 523
-e: 682
-r: 682
-Total: 2772
+p: 75
+q: 91
+w: 100
+e: 132
+r: 132
+Total: 516
 
 Lee Sin
-p: 298
-q: 831
-w: 626
-e: 673
-r: 673
-Total: 3040
+p: 56
+q: 158
+w: 121
+e: 124
+r: 124
+Total: 567
 
 Leona
-p: 288
-q: 390
-w: 736
-e: 497
-r: 497
-Total: 2464
+p: 43
+q: 75
+w: 141
+e: 98
+r: 98
+Total: 458
 
 Lillia
-p: 632
-q: 826
-w: 624
-e: 611
-r: 611
-Total: 3306
+p: 114
+q: 163
+w: 127
+e: 112
+r: 112
+Total: 619
 
 Lissandra
-p: 528
-q: 539
-w: 295
-e: 524
-r: 524
-Total: 2847
+p: 82
+q: 116
+w: 61
+e: 103
+r: 103
+Total: 528
 
 Lucian
-p: 759
-q: 366
-w: 641
-e: 480
-r: 480
-Total: 2969
+p: 125
+q: 82
+w: 125
+e: 84
+r: 84
+Total: 546
 
 Lulu
-p: 750
-q: 658
-w: 769
-e: 621
-r: 621
-Total: 3280
+p: 139
+q: 129
+w: 145
+e: 126
+r: 126
+Total: 625
 
 Lux
-p: 211
-q: 322
-w: 662
-e: 841
-r: 841
-Total: 2381
+p: 36
+q: 66
+w: 129
+e: 160
+r: 160
+Total: 457
 
 Malphite
-p: 378
-q: 433
-w: 745
-e: 316
-r: 316
-Total: 2297
+p: 67
+q: 88
+w: 139
+e: 65
+r: 65
+Total: 432
 
 Malzahar
-p: 383
-q: 459
-w: 698
-e: 587
-r: 587
-Total: 3125
+p: 62
+q: 87
+w: 130
+e: 113
+r: 113
+Total: 569
 
 Maokai
-p: 481
-q: 487
-w: 329
-e: 1332
-r: 1332
-Total: 3099
+p: 85
+q: 92
+w: 66
+e: 255
+r: 255
+Total: 580
 
 Master Yi
-p: 619
-q: 1589
-w: 1108
-e: 226
-r: 226
-Total: 4116
+p: 96
+q: 292
+w: 193
+e: 48
+r: 48
+Total: 719
 
 Miss Fortune
-p: 242
-q: 816
-w: 520
-e: 474
-r: 474
-Total: 2618
+p: 44
+q: 149
+w: 96
+e: 95
+r: 95
+Total: 488
 
 Mordekaiser
-p: 818
-q: 362
-w: 991
-e: 433
-r: 433
-Total: 3838
+p: 136
+q: 72
+w: 168
+e: 83
+r: 83
+Total: 665
 
 Morgana
-p: 172
-q: 369
-w: 926
-e: 323
-r: 323
-Total: 2665
+p: 26
+q: 77
+w: 167
+e: 62
+r: 62
+Total: 487
 
 Nami
-p: 222
-q: 349
-w: 662
-e: 595
-r: 595
-Total: 2273
+p: 38
+q: 68
+w: 133
+e: 119
+r: 119
+Total: 439
 
 Nasus
-p: 75
-q: 501
-w: 465
-e: 709
-r: 709
-Total: 2373
+p: 15
+q: 86
+w: 93
+e: 141
+r: 141
+Total: 444
 
 Nautilus
-p: 260
-q: 685
-w: 566
-e: 697
-r: 697
-Total: 2893
+p: 45
+q: 125
+w: 106
+e: 143
+r: 143
+Total: 543
 
 Neeko
-p: 641
-q: 558
-w: 871
-e: 542
-r: 542
-Total: 3391
+p: 100
+q: 116
+w: 161
+e: 111
+r: 111
+Total: 631
 
 Nidalee
-p: 601
-q: 1009
-w: 774
-e: 280
-r: 280
-Total: 3191
+p: 96
+q: 186
+w: 139
+e: 51
+r: 51
+Total: 562
 
 Nocturne
-p: 661
-q: 630
-w: 368
-e: 695
-r: 695
-Total: 2999
+p: 111
+q: 123
+w: 70
+e: 132
+r: 132
+Total: 540
 
 Nunu & Willump
-p: 713
-q: 996
-w: 1922
-e: 1053
-r: 1053
-Total: 5472
+p: 119
+q: 191
+w: 335
+e: 205
+r: 205
+Total: 996
 
 Olaf
-p: 90
-q: 723
-w: 425
-e: 411
-r: 411
-Total: 2223
+p: 15
+q: 131
+w: 78
+e: 85
+r: 85
+Total: 407
 
 Orianna
-p: 971
-q: 511
-w: 590
-e: 615
-r: 615
-Total: 3064
+p: 174
+q: 103
+w: 109
+e: 115
+r: 115
+Total: 566
 
 Ornn
-p: 1858
-q: 623
-w: 982
-e: 763
-r: 763
-Total: 5385
+p: 279
+q: 112
+w: 187
+e: 137
+r: 137
+Total: 920
 
 Pantheon
-p: 344
-q: 1578
-w: 795
-e: 1079
-r: 1079
-Total: 5214
+p: 58
+q: 275
+w: 147
+e: 187
+r: 187
+Total: 912
 
 Poppy
-p: 619
-q: 849
-w: 678
-e: 564
-r: 564
-Total: 4274
+p: 111
+q: 167
+w: 123
+e: 112
+r: 112
+Total: 778
 
 Pyke
-p: 742
-q: 1060
-w: 495
-e: 504
-r: 504
-Total: 3774
+p: 131
+q: 195
+w: 81
+e: 91
+r: 91
+Total: 676
 
 Qiyana
-p: 445
-q: 1923
-w: 998
-e: 399
-r: 399
-Total: 4547
+p: 73
+q: 346
+w: 177
+e: 80
+r: 80
+Total: 809
 
 Quinn
-p: 687
-q: 611
-w: 449
-e: 390
-r: 390
-Total: 3431
+p: 117
+q: 116
+w: 83
+e: 75
+r: 75
+Total: 594
 
 Rakan
-p: 598
-q: 530
-w: 546
-e: 583
-r: 583
-Total: 3332
+p: 104
+q: 101
+w: 104
+e: 113
+r: 113
+Total: 604
 
 Rammus
-p: 161
-q: 799
-w: 726
-e: 477
-r: 477
-Total: 3971
+p: 27
+q: 146
+w: 128
+e: 86
+r: 86
+Total: 721
 
 Rek'Sai
-p: 404
-q: 957
-w: 1045
-e: 1336
-r: 1336
-Total: 4556
+p: 71
+q: 172
+w: 175
+e: 229
+r: 229
+Total: 788
 
 Rell
-p: 819
-q: 657
-w: 2219
-e: 1106
-r: 1106
-Total: 5303
+p: 143
+q: 127
+w: 383
+e: 202
+r: 202
+Total: 943
 
 Renekton
-p: 417
-q: 1099
-w: 1000
-e: 1000
-r: 1000
-Total: 4042
+p: 75
+q: 211
+w: 173
+e: 189
+r: 189
+Total: 741
 
 Rengar
-p: 1292
-q: 590
-w: 680
-e: 496
-r: 496
-Total: 4100
+p: 216
+q: 108
+w: 123
+e: 88
+r: 88
+Total: 707
 
 Riven
-p: 360
-q: 1129
-w: 315
-e: 482
-r: 482
-Total: 3043
+p: 61
+q: 208
+w: 64
+e: 93
+r: 93
+Total: 560
 
 Rumble
-p: 797
-q: 1026
-w: 494
-e: 1154
-r: 1154
-Total: 4148
+p: 136
+q: 212
+w: 92
+e: 215
+r: 215
+Total: 779
 
 Ryze
-p: 63
-q: 694
-w: 367
-e: 522
-r: 522
-Total: 2285
+p: 11
+q: 133
+w: 77
+e: 102
+r: 102
+Total: 427
 
 Samira
-p: 1451
-q: 937
-w: 695
-e: 666
-r: 666
-Total: 4912
+p: 242
+q: 177
+w: 126
+e: 129
+r: 129
+Total: 878
 
 Sejuani
-p: 685
-q: 506
-w: 868
-e: 747
-r: 747
-Total: 3892
+p: 111
+q: 94
+w: 168
+e: 127
+r: 127
+Total: 696
 
 Senna
-p: 1759
-q: 843
-w: 539
-e: 898
-r: 898
-Total: 4640
+p: 299
+q: 147
+w: 106
+e: 156
+r: 156
+Total: 814
 
 Seraphine
-p: 1099
-q: 568
-w: 728
-e: 508
-r: 508
-Total: 3556
+p: 200
+q: 121
+w: 142
+e: 100
+r: 100
+Total: 672
 
 Sett
-p: 695
-q: 854
-w: 736
-e: 499
-r: 499
-Total: 3901
+p: 130
+q: 166
+w: 138
+e: 91
+r: 91
+Total: 717
 
 Shaco
-p: 294
-q: 804
-w: 1260
-e: 732
-r: 732
-Total: 4177
+p: 47
+q: 134
+w: 229
+e: 141
+r: 141
+Total: 736
 
 Shen
-p: 392
-q: 1310
-w: 409
-e: 477
-r: 477
-Total: 3235
+p: 65
+q: 260
+w: 75
+e: 91
+r: 91
+Total: 605
 
 Shyvana
-p: 329
-q: 991
-w: 855
-e: 1002
-r: 1002
-Total: 4114
+p: 52
+q: 165
+w: 156
+e: 186
+r: 186
+Total: 718
 
 Singed
-p: 259
-q: 471
-w: 349
-e: 623
-r: 623
-Total: 2280
+p: 43
+q: 83
+w: 69
+e: 128
+r: 128
+Total: 416
 
 Sion
-p: 1068
-q: 1631
-w: 900
-e: 709
-r: 709
-Total: 6009
+p: 176
+q: 324
+w: 178
+e: 144
+r: 144
+Total: 1115
 
 Sivir
-p: 240
-q: 762
-w: 590
-e: 241
-r: 241
-Total: 2407
+p: 39
+q: 159
+w: 107
+e: 45
+r: 45
+Total: 448
 
 Skarner
-p: 1236
-q: 645
-w: 480
-e: 796
-r: 796
-Total: 3884
+p: 203
+q: 123
+w: 89
+e: 146
+r: 146
+Total: 686
 
 Sona
-p: 973
-q: 662
-w: 725
-e: 475
-r: 475
-Total: 3185
+p: 164
+q: 128
+w: 144
+e: 93
+r: 93
+Total: 591
 
 Soraka
-p: 168
-q: 860
-w: 509
-e: 639
-r: 639
-Total: 2556
+p: 25
+q: 164
+w: 105
+e: 127
+r: 127
+Total: 487
 
 Swain
-p: 811
-q: 495
-w: 681
-e: 564
-r: 564
-Total: 3887
+p: 139
+q: 110
+w: 142
+e: 106
+r: 106
+Total: 727
 
 Sylas
-p: 778
-q: 795
-w: 499
-e: 689
-r: 689
-Total: 3566
+p: 127
+q: 159
+w: 105
+e: 123
+r: 123
+Total: 647
 
 Syndra
-p: 124
-q: 514
-w: 950
-e: 778
-r: 778
-Total: 3040
+p: 17
+q: 92
+w: 184
+e: 148
+r: 148
+Total: 562
 
 Tahm Kench
-p: 496
-q: 1005
-w: 941
-e: 569
-r: 569
-Total: 4438
+p: 82
+q: 205
+w: 177
+e: 105
+r: 105
+Total: 819
 
 Taliyah
-p: 419
-q: 1019
-w: 390
-e: 942
-r: 942
-Total: 3977
+p: 74
+q: 189
+w: 79
+e: 184
+r: 184
+Total: 731
 
 Talon
-p: 609
-q: 739
-w: 781
-e: 379
-r: 379
-Total: 3334
+p: 103
+q: 131
+w: 157
+e: 65
+r: 65
+Total: 592
 
 Taric
-p: 324
-q: 531
-w: 747
-e: 357
-r: 357
-Total: 2249
+p: 55
+q: 102
+w: 134
+e: 71
+r: 71
+Total: 409
 
 Teemo
-p: 584
-q: 432
-w: 522
-e: 601
-r: 601
-Total: 3187
+p: 97
+q: 88
+w: 94
+e: 125
+r: 125
+Total: 592
 
 Thresh
-p: 394
-q: 1179
-w: 794
-e: 884
-r: 884
-Total: 3812
+p: 64
+q: 212
+w: 149
+e: 165
+r: 165
+Total: 692
 
 Tristana
-p: 168
-q: 185
-w: 484
-e: 1494
-r: 1494
-Total: 2765
+p: 31
+q: 38
+w: 91
+e: 284
+r: 284
+Total: 521
 
 Trundle
-p: 145
-q: 587
-w: 395
-e: 352
-r: 352
-Total: 2421
+p: 25
+q: 111
+w: 78
+e: 69
+r: 69
+Total: 450
 
 Tryndamere
-p: 302
-q: 585
-w: 429
-e: 462
-r: 462
-Total: 2181
+p: 53
+q: 118
+w: 79
+e: 81
+r: 81
+Total: 398
 
 Twisted Fate
-p: 178
-q: 349
-w: 1143
-e: 352
-r: 352
-Total: 2533
+p: 32
+q: 69
+w: 230
+e: 68
+r: 68
+Total: 481
 
 Twitch
-p: 624
-q: 647
-w: 438
-e: 768
-r: 768
-Total: 3124
+p: 133
+q: 108
+w: 87
+e: 159
+r: 159
+Total: 597
 
 Udyr
-p: 838
-q: 733
-w: 417
-e: 619
-r: 619
-Total: 3312
+p: 141
+q: 146
+w: 77
+e: 115
+r: 115
+Total: 618
 
 Urgot
-p: 587
-q: 390
-w: 1097
-e: 700
-r: 700
-Total: 4313
+p: 109
+q: 77
+w: 188
+e: 134
+r: 134
+Total: 769
 
 Varus
-p: 254
-q: 1195
-w: 1678
-e: 537
-r: 537
-Total: 4502
+p: 44
+q: 236
+w: 296
+e: 104
+r: 104
+Total: 825
 
 Vayne
-p: 200
-q: 327
-w: 543
-e: 527
-r: 527
-Total: 2218
+p: 31
+q: 61
+w: 95
+e: 105
+r: 105
+Total: 393
 
 Veigar
-p: 260
-q: 441
-w: 469
-e: 467
-r: 467
-Total: 1993
+p: 43
+q: 87
+w: 89
+e: 92
+r: 92
+Total: 375
 
 Vel'Koz
-p: 302
-q: 1038
-w: 821
-e: 608
-r: 608
-Total: 3747
+p: 49
+q: 195
+w: 163
+e: 114
+r: 114
+Total: 681
 
 Vex
-p: 1017
-q: 382
-w: 353
-e: 522
-r: 522
-Total: 3250
+p: 182
+q: 80
+w: 74
+e: 108
+r: 108
+Total: 620
 
 Vi
-p: 262
-q: 1050
-w: 651
-e: 645
-r: 645
-Total: 3164
+p: 47
+q: 194
+w: 113
+e: 123
+r: 123
+Total: 572
 
 Viego
-p: 1163
-q: 1549
-w: 960
-e: 982
-r: 982
-Total: 5618
+p: 188
+q: 275
+w: 168
+e: 179
+r: 179
+Total: 971
 
 Viktor
-p: 378
-q: 811
-w: 749
-e: 593
-r: 593
-Total: 3626
+p: 56
+q: 162
+w: 131
+e: 121
+r: 121
+Total: 658
 
 Vladimir
-p: 154
-q: 914
-w: 820
-e: 1123
-r: 1123
-Total: 3713
+p: 26
+q: 164
+w: 145
+e: 218
+r: 218
+Total: 676
 
 Volibear
-p: 711
-q: 872
-w: 806
-e: 618
-r: 618
-Total: 4038
+p: 123
+q: 149
+w: 161
+e: 117
+r: 117
+Total: 729
 
 Warwick
-p: 285
-q: 1066
-w: 1412
-e: 592
-r: 592
-Total: 4063
+p: 48
+q: 195
+w: 248
+e: 104
+r: 104
+Total: 711
 
 Wukong
-p: 367
-q: 690
-w: 751
-e: 701
-r: 701
-Total: 3724
+p: 66
+q: 127
+w: 130
+e: 132
+r: 132
+Total: 662
 
 Xayah
-p: 857
-q: 660
-w: 582
-e: 644
-r: 644
-Total: 3288
+p: 146
+q: 132
+w: 112
+e: 119
+r: 119
+Total: 604
 
 Xerath
-p: 273
-q: 752
-w: 690
-e: 372
-r: 372
-Total: 3078
+p: 46
+q: 145
+w: 137
+e: 78
+r: 78
+Total: 587
 
 Xin Zhao
-p: 554
-q: 671
-w: 1093
-e: 657
-r: 657
-Total: 3703
+p: 98
+q: 122
+w: 210
+e: 117
+r: 117
+Total: 672
 
 Yasuo
-p: 691
-q: 1629
-w: 510
-e: 983
-r: 983
-Total: 4831
+p: 124
+q: 271
+w: 99
+e: 192
+r: 192
+Total: 851
 
 Yone
-p: 549
-q: 1237
-w: 957
-e: 1664
-r: 1664
-Total: 5377
+p: 91
+q: 218
+w: 194
+e: 280
+r: 280
+Total: 953
 
 Yorick
-p: 644
-q: 754
-w: 765
-e: 989
-r: 989
-Total: 3717
+p: 117
+q: 139
+w: 136
+e: 181
+r: 181
+Total: 678
 
 Yuumi
-p: 419
-q: 793
-w: 2052
-e: 380
-r: 380
-Total: 4350
+p: 73
+q: 158
+w: 372
+e: 83
+r: 83
+Total: 812
 
 Zac
-p: 1532
-q: 1551
-w: 504
-e: 843
-r: 843
-Total: 5287
+p: 269
+q: 272
+w: 95
+e: 153
+r: 153
+Total: 941
 
 Zed
-p: 362
-q: 443
-w: 995
-e: 586
-r: 586
-Total: 3517
+p: 62
+q: 85
+w: 182
+e: 112
+r: 112
+Total: 637
 
 Ziggs
-p: 374
-q: 636
-w: 1141
-e: 713
-r: 713
-Total: 3475
+p: 66
+q: 122
+w: 205
+e: 140
+r: 140
+Total: 640
 
 Zilean
-p: 899
-q: 788
-w: 152
-e: 318
-r: 318
-Total: 2582
+p: 160
+q: 149
+w: 30
+e: 59
+r: 59
+Total: 472
 
 Zoe
-p: 205
-q: 1079
-w: 1241
-e: 1191
-r: 1191
-Total: 4250
+p: 34
+q: 206
+w: 226
+e: 220
+r: 220
+Total: 780
 
 Zyra
-p: 440
-q: 408
-w: 535
-e: 466
-r: 466
-Total: 2563
+p: 79
+q: 78
+w: 97
+e: 92
+r: 92
+Total: 467
 

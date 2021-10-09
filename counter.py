@@ -2,7 +2,7 @@ import os,sys
 import getter
 
 if __name__=='__main__':
-    if not os.path.isfile('size_of_kit.txt'): getter.main()
+    if not os.path.isfile('size_of_kit.txt'): lista = getter.main()
     grupo = []
     with open('size_of_kit.txt','r') as file: 
         size = int(file.readline())

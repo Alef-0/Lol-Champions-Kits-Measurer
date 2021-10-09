@@ -63,23 +63,24 @@ class Champion:
 def main():
     lista = fill()
     with open('size_of_kit.txt', 'w') as file:
-        file.write(str(len(lista)))
+        file.write(f'{str(len(lista))}\n')
         for i in lista:
             print(f'Writing {i.nome}')
             total = 0
             file.write(f'{i.nome}\n')
-            file.write(f'p: {str(len(i.p))}\n')
-            total +=len(i.p)
-            file.write(f'q: {str(len(i.q))}\n')
-            total +=len(i.q)
-            file.write(f'w: {str(len(i.w))}\n')
-            total +=len(i.w)
-            file.write(f'e: {str(len(i.e))}\n')
-            total +=len(i.e)
-            file.write(f'r: {str(len(i.e))}\n')
-            total +=len(i.r)
+            file.write(f'p: {str(len(i.p.split()))}\n')
+            total += len(i.p.split())
+            file.write(f'q: {str(len(i.q.split()))}\n')
+            total += len(i.q.split())
+            file.write(f'w: {str(len(i.w.split()))}\n')
+            total += len(i.w.split())
+            file.write(f'e: {str(len(i.e.split()))}\n')
+            total += len(i.e.split())
+            file.write(f'r: {str(len(i.e.split()))}\n')
+            total += len(i.r.split())
             file.write(f'Total: {total}\n')
             file.write('\n')
+    return lista
 
 
 if __name__== '__main__':
