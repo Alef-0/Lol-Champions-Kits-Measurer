@@ -11,11 +11,11 @@ def parser(url):
 
 def champions_list():
     html = parser(champions_wiki)
-    lista = []
+    lista = {}
     for div in html.find_all('div', class_='floatleft'):
         for a in div.find_all('a'):
             camp = Champion(a.get('title').replace('/LoL',''),a.get('href'))
-            lista.append(camp)
+            lista[camp.nome] = camp
     return lista
 
 def champion_bio(champion_link):
@@ -40,7 +40,7 @@ def champion_bio(champion_link):
 
 def fill():
     lista = champions_list()
-    for i in lista: 
+    for i in lista.values(): 
         print(f'Getting {i.nome}')
         i.set_skill(*champion_bio(i.link))
     return lista
@@ -64,8 +64,7 @@ def main():
     lista = fill()
     with open('size_of_kit.txt', 'w') as file:
         file.write(f'{str(len(lista))}\n')
-        for i in lista:
-            print(f'Writing {i.nome}')
+        for i in lista.values():
             total = 0
             file.write(f'{i.nome}\n')
             file.write(f'p: {str(len(i.p.split()))}\n')
