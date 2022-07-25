@@ -54,11 +54,11 @@ class Champion:
         return f'nome: {self.nome} e link: {self.link}'
     def set_skill(self,p,q,w,e,r):
         self.p,self.q,self.w,self.e,self.r = "","","","",""
-        for i in p: self.p += i
-        for i in q: self.q += i
-        for i in w: self.w += i
-        for i in e: self.e += i
-        for i in r: self.r += i
+        self.p = "".join(p)
+        self.q += "".join(q)
+        self.w += "".join(w)
+        self.e += "".join(e)
+        self.r += "".join(r)
 
 def main():
     lista = fill()
